@@ -6,7 +6,7 @@ var LoginSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  repo: {
+  password: {
     type: String,
     required: true
   }
