@@ -21,7 +21,7 @@
     "express": "^4.14.0",
     "lodash": "^4.15.0",
     "method-override": "^2.3.6",
-    "mongoose": "^4.6.0",
+    "mongoose": ">=5.7.5",
     "resourcejs": "^1.4.1"
   }
 }
